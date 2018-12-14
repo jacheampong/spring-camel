@@ -1,0 +1,2 @@
+This is an apache camel tutorial.
+Learning never stops!

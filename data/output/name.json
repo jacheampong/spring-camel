@@ -1,0 +1,10 @@
+{
+  "name" : "Jon",
+  "mode" : "study",
+  "topic" : "apache camel",
+  "hobbies" : [{
+    "1" : "Soccer",
+    "2" : "working out",
+    "3" : "travel"
+  }]
+}
